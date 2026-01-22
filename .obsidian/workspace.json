@@ -10,7 +10,7 @@
           {
             "id": "17de792c42f48955",
             "type": "split",
-            "dimension": 70.9409594095941,
+            "dimension": 65.31365313653137,
             "children": [
               {
                 "id": "db9ec8a53fc5ea9d",
@@ -117,7 +117,7 @@
           {
             "id": "fb8ef9aab40f35f4",
             "type": "tabs",
-            "dimension": 29.059040590405903,
+            "dimension": 34.686346863468636,
             "children": [
               {
                 "id": "6ad82cf451aaf675",
@@ -162,7 +162,7 @@
                 }
               },
               {
-                "id": "aee8345ef99541f4",
+                "id": "50c53fd370b4d98e",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -264,8 +264,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0e739d19ace99692",
@@ -368,16 +367,16 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "aee8345ef99541f4",
+  "active": "50c53fd370b4d98e",
   "lastOpenFiles": [
     "Теория по вопросам.md",
+    "тема 7__ПО_251216_090902.pdf",
     "СИ_ПЗ_1 занятие.docx.pdf",
     "тема 2_СС_АО.pdf",
     "тема 3_NEW_Пр_Данных.pdf",
     "тема 4_Преобразование.pdf",
     "тема 5_ЛогичОсновы.pdf",
     "тема 6_ЭВМ.pdf",
-    "тема 7__ПО_251216_090902.pdf",
     "Список вопросов.md",
     "~$просы экзамена.docx",
     "История_ВТ.pdf"
